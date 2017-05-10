@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Programming 1 Portfolio
+## Mikhail Were 2017
 
 You can use the [editor on GitHub](https://github.com/Gir3327/Programming-1-Portfolio-1-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
